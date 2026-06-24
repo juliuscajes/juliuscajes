@@ -23,7 +23,7 @@ I am an Information Technology student passionate about building clean, function
 * **Stack:** Laravel (Backend) + React (Frontend) 
 * **Key Features:** User authentication, pet profile management, and real-time report matching.
 
-### 📉 [QuickCount]https://quick-count-six.vercel.app/
+### 📉 [QuickCount](https://quick-count-six.vercel.app/)
 > **A Clean & Simple Expense Tracker** > A utility mobile app built to make financial tracking effortless and distraction-free.
 * **Stack:** React Native (CLI) + SQLite + Firebase (Optional Cloud Sync)
 * **Key Features:** Offline storage, dynamic budget summaries, and seamless layout transitions.
