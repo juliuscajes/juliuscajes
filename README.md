@@ -17,20 +17,19 @@ I am an Information Technology student passionate about building clean, function
 ---
 
 ## 🌟 Featured Projects
-
-### 🎁 [DigitalGift](https://github.com/your-username/your-repo)
+### 🎁 [DigitalGift](https://digital-gift-one.vercel.app/)
 > **Full-Stack Gifting & Registry Platform**
 > A clean, responsive web application designed to simplify digital gifting, registries, or voucher handling with an intuitive frontend and robust database management.
 * **Stack:** Laravel (Backend) + React (Frontend)
 * **Key Features:** User profiles, dynamic gifting parameters, secure handling, and crisp layout architecture.
 
-### 💍 [DigitalWedding](https://github.com/your-username/your-repo)
+### 💍 [DigitalWedding](https://juliuscajes.github.io/Wedding/)
 > **Interactive Online Wedding Invitation**
 > A highly personalized, lively, and modern web application replacing traditional paper invites. Hosted seamlessly via GitHub Pages.
 * **Stack:** React
 * **Key Features:** Integrated custom QR code generation for effortless guest website verification and responsive desktop/mobile UI layout.
 
-### 📉 [QuickCount](https://github.com/your-username/your-repo)
+### 📉 [QuickCount](https://quick-count-six.vercel.app/)
 > **A Clean & Simple Expense Tracker**
 > A utility mobile app built to make financial tracking effortless, sleek, and distraction-free.
 * **Stack:** React Native (CLI) + SQLite + Firebase (Optional Cloud Sync)
