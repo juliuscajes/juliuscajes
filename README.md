@@ -18,20 +18,29 @@ I am an Information Technology student passionate about building clean, function
 
 ## 🌟 Featured Projects
 
-### 🐾 [PetFinder](https://github.com/your-username/your-repo)
-> **A Lost & Found Pet System** > A full-stack web application designed with a clean, lively, and "breathable" UI to help pet lovers reunite with their missing animals.
-* **Stack:** Laravel (Backend) + React (Frontend) 
-* **Key Features:** User authentication, pet profile management, and real-time report matching.
+### 🎁 [DigitalGift](https://github.com/your-username/your-repo)
+> **Full-Stack Gifting & Registry Platform**
+> A clean, responsive web application designed to simplify digital gifting, registries, or voucher handling with an intuitive frontend and robust database management.
+* **Stack:** Laravel (Backend) + React (Frontend)
+* **Key Features:** User profiles, dynamic gifting parameters, secure handling, and crisp layout architecture.
 
-### 📉 [QuickCount](https://quick-count-six.vercel.app/)
-> **A Clean & Simple Expense Tracker** > A utility mobile app built to make financial tracking effortless and distraction-free.
+### 💍 [DigitalWedding](https://github.com/your-username/your-repo)
+> **Interactive Online Wedding Invitation**
+> A highly personalized, lively, and modern web application replacing traditional paper invites. Hosted seamlessly via GitHub Pages.
+* **Stack:** React
+* **Key Features:** Integrated custom QR code generation for effortless guest website verification and responsive desktop/mobile UI layout.
+
+### 📉 [QuickCount](https://github.com/your-username/your-repo)
+> **A Clean & Simple Expense Tracker**
+> A utility mobile app built to make financial tracking effortless, sleek, and distraction-free.
 * **Stack:** React Native (CLI) + SQLite + Firebase (Optional Cloud Sync)
-* **Key Features:** Offline storage, dynamic budget summaries, and seamless layout transitions.
+* **Key Features:** Offline storage capability, local database transitions, and lightweight visual elements.
 
-### ⚡ [Smart IoT Project / Repo Name](https://github.com/your-username/your-repo)
-> **Hardware-to-Cloud Integration System** > An IoT project leveraging microcontroller capabilities to capture real-time physical metrics and synchronize data instantly with cloud services.
+### ⚡ [Smart IoT System](https://github.com/your-username/your-repo)
+> **Hardware-to-Cloud Integration Project**
+> An IoT framework engineered to capture physical sensor metrics and pipe them instantly into reactive data management pipelines.
 * **Stack:** ESP32 (C++/Arduino) + Firebase Realtime Database + React Dashboard
-* **Dockerized Environment:** Uses Docker containers to keep development environments uniform, fast, and easy to spin up across devices.
+* **Containerization:** Environment containerized using Docker to guarantee clean deployment and easy replication across developer nodes.
 
 ---
 
@@ -45,7 +54,6 @@ I am an Information Technology student passionate about building clean, function
 ---
 
 ## 💬 Connect with me!
-* 🌐 Check out my repositories for full-stack, mobile, and hardware-integrated engineering.
-* 🛠️ Currently exploring automated container deployment and real-time sensor streams.
+* 🌐 Check out my repositories for full-stack web architectures, mobile features, and hardware systems.
+* 🛠️ Currently streamlining containerized apps and secure real-time APIs.
 * 😉 *“Balag balik-balik ang code, basta humanon gyud nato ni!”*
-* 
