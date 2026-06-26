@@ -35,7 +35,7 @@ I am an Information Technology student passionate about building clean, function
 * **Stack:** React Native (CLI) + SQLite + Firebase (Optional Cloud Sync)
 * **Key Features:** Offline storage capability, local database transitions, and lightweight visual elements.
 
-### ⚡ [Smart IoT System](https://github.com/your-username/your-repo)
+### ⚡ [HomeAutomation IoT System](https://home-automation-35le-mid40zn6e-juliuscajes-projects.vercel.app/login)
 > **Hardware-to-Cloud Integration Project**
 > An IoT framework engineered to capture physical sensor metrics and pipe them instantly into reactive data management pipelines.
 * **Stack:** ESP32 (C++/Arduino) + Firebase Realtime Database + React Dashboard
