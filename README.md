@@ -1,72 +1,49 @@
-# Julius Cajes Lagarto 👋
-**Aspiring Software Engineering | Full-Stack & Mobile Developer**  
-📍 Central Visayas, Philippines | 🌐 [github.com/juliuscajes](https://github.com/juliuscajes)
+# Julius Cajes Lagarto 
+
+### **Full-Stack Web & Mobile Developer**
+📍 Central Visayas, Philippines | 🌐 [github.com/your-username](https://github.com/your-username)
+
+Software engineer focused on building responsive, maintainable digital architectures. I bridge the gap between hardware telemetry, robust backends, and intuitive user interfaces using containerized workflows and AI-assisted engineering.
 
 ---
 
-## 🚀 Professional Objective & Mission
-Eager, growth-oriented Information Technology student aiming to leverage a robust foundation in Full-Stack development, mobile frameworks, and hardware systems in a fast-paced Software Engineering Internship. Driven by a deep curiosity for building scalable systems and a relentless commitment to writing clean, maintainable code. Ready to bring fresh technical insights, adaptability, and an enthusiastic problem-solving mindset to a forward-thinking engineering team.
+## 🛠️ Core Stack
+
+* **Frontend & Mobile:** React.js, React Native (CLI), JavaScript (ES6+), TailwindCSS
+* **Backend & Cloud:** PHP, Laravel, MySQL, SQLite, Firebase
+* **IoT & DevOps:** ESP32 (C++/Arduino), Docker, Git, Linux (Termux)
 
 ---
 
-## 🛠️ Technical Toolkit
+## 🤖 AI-Assisted Engineering
+*I leverage AI tools as an architectural accelerator to optimize development workflows:*
 
-* **Frontend & Mobile Innovation:** React.js, React Native (CLI), JavaScript (ES6+), TailwindCSS, Responsive Design, HTML, CSS
-* **Backend & Cloud Architecture:** PHP, Laravel Framework, MySQL, SQLite, Firebase Realtime Ecosystem, Java, C#
-* **DevOps & Hardware Integration:** Docker (Containerization), Git/GitHub Version Control, Embedded C++/Arduino, ESP32 Microcontrollers
-
----
-
-## 🌟 Featured Engineering Projects
-
-### 🎁 DigitalGift | *Full-Stack Gifting & Registry System*
-*Spearheaded the development of a modern web application designed to optimize digital voucher handling and user registry workflows.*
-* **Technology Stack:** Laravel, React.js, MySQL
-* **Aspiring Milestones:** 
-  * Architected decoupled RESTful API endpoints, strengthening backend data integrity and system scalability.
-  * Sculpted an intuitive, high-performance user interface to maximize user retention and deliver a seamless fluid experience.
-
-### 💍 DigitalWedding | *Interactive Event Architecture & Deployment*
-*Engineered a modern, responsive web application replacing traditional paper media with dynamic user invitation paths.*
-* **Technology Stack:** React.js, GitHub Pages, Web APIs
-* **Aspiring Milestones:**
-  * Implemented real-time custom QR-code generation, bridging physical invitations with automated digital verification.
-  * Leveraged automated deployment pipelines via GitHub Pages to achieve 100% platform availability across mobile and desktop viewpoints.
-
-### 📉 QuickCount | *Offline-First Mobile Asset Tracker*
-*Designed and built a low-latency personal accounting mobile application engineered for optimal resource management.*
-* **Technology Stack:** React Native (CLI), SQLite, Firebase Cloud Sync
-* **Aspiring Milestones:**
-  * Mastered local database caching with SQLite to secure consistent app functionality during zero-connectivity environments.
-  * Structured reactive data streams linking localized databases to cloud infrastructure for transparent, real-time sync pipelines.
-
-### ⚡ Smart IoT Framework | *Hardware-to-Cloud Telemetry Pipeline*
-*Pioneered an end-to-end telemetry pipeline streaming real-world sensor logs instantly into web clients.*
-* **Technology Stack:** ESP32 (C++/Arduino), Firebase, Docker
-* **Aspiring Milestones:**
-  * Programmed efficient hardware loop firmware configurations to pipe continuous environmental statistics over secure cloud infrastructure.
-  * Adopted professional DevOps standards by containerizing development workflows inside Docker, completely eliminating environmental drift.
+* ⚡ **Scaffolding:** Rapidly generating boilerplate structures for backend migrations, UI layouts, and firmware loops.
+* 🔍 **Debugging:** Using AI for isolated edge-case troubleshooting, static analysis, and code optimization.
+* 📦 **Architecture:** Mapping clean database schemas and streamlining containerized networking configurations.
 
 ---
 
-## 🎓 Education & Continuous Learning
+## 🌟 Featured Projects
 
-### 🏫 Bachelor of Science in Information Technology (BSIT)
-*Focus Areas:* Software Engineering Principles, Advanced Database Management, Object-Oriented Programming, System Integration.
-* **Beyond the Classroom:** Actively diving into containerized workflows, microservice concepts, and modern architecture patterns to stay ahead of industry standards.
+### 🎁 [DigitalGift](digital-gift-one.vercel.app)
+* **Overview:** A full-stack gifting and registry platform built for scalable transactional workflows.
+* **Architecture:** Laravel (API) + React.js + MySQL
+
+### 💍 [DigitalWedding](https://juliuscajes.github.io/Wedding/)
+* **Overview:** An interactive event invitation and check-in confirmation pipeline.
+* **Architecture:** React.js (CI/CD via GitHub Pages) with custom QR-code verification.
+
+### 📉 [QuickCount](quick-count-six.vercel.app)
+* **Overview:** A lightweight, offline-first personal finance mobile tracker.
+* **Architecture:** React Native (CLI) + SQLite (Local Cache) + Firebase (Cloud Sync)
+
+### ⚡ [Smart HomeAutomation ](home-automation-35le.vercel.app)
+* **Overview:** A real-time hardware telemetry pipeline streaming sensor metrics to cloud instances.
+* **Architecture:** ESP32 Firmware (C++) + Firebase Realtime DB + Docker
 
 ---
 
-## 📊 Growth Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&hide_border=true" alt="Julius's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
-
----
-
-## 💼 Let's Build Something Great Together!
-* 🔍 **Actively Seeking:** Summer 2026 / Fall 2026 Software Engineering, Web Development, or Mobile Internships.
-* 🌱 **My Philosophy:** I don't just write code; I am determined to master the systems behind it. 
-* 😉 *“Balag balik-balik ang code, basta humanon gyud nato ni!”* (No matter how many iterations it takes, we push through to execution!)
+## ✉️ Get in Touch
+* 💼 **Available for:** Full-Time Roles, Project Contracts, and Open-Source Collaborations.
+* 😉 *“Balag balik-balik ang code, basta humanon gyud nato ni!”*
