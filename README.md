@@ -30,7 +30,7 @@ Software engineer focused on building responsive, maintainable digital architect
 * **Overview:** A Digital gifting and registry platform built for scalable transactional workflows.
 * **Architecture:** React.js 
 
-### 🎁 [Father's Day](https://digital-gift-one.vercel.app)
+### 🎁 [Father's Day](https://juliuscajes.github.io/fathersDay/)
 * **Overview:** A Digital Father's Day Gift , this is Family Bonding with videos and pictures memories.
 * **Architecture:** Typescript.js
 
