@@ -1,6 +1,6 @@
 # Julius Cajes Lagarto 
 
-### **Full-Stack Web & Mobile Developer**
+### **Full-Stack Website  Developer & Mobile Developer**
 📍 Central Visayas, Philippines | 🌐 [wala pang nahuman ang porfolio](https://github.com/your-username)
 
 Software engineer focused on building responsive, maintainable digital architectures. I bridge the gap between hardware telemetry, robust backends, and intuitive user interfaces using containerized workflows and AI-assisted engineering.
@@ -9,8 +9,8 @@ Software engineer focused on building responsive, maintainable digital architect
 
 ## 🛠️ Core Stack
 
-* **Frontend & Mobile:** React.js, React Native (CLI), JavaScript (ES6+), TailwindCSS
-* **Backend & Cloud:** PHP, Laravel, MySQL, SQLite, Firebase
+* **Frontend & Mobile:** React.js, React Native (CLI), JavaScript (ES6+), TailwindCSS, Flutter, HTML,  CSS   
+* **Backend & Cloud:** PHP, Laravel, MySQL, SQLite, Firebase, Java,  C++, C#
 * **IoT & DevOps:** ESP32 (C++/Arduino), Docker, Git, Linux (Termux)
 
 ---
@@ -27,20 +27,24 @@ Software engineer focused on building responsive, maintainable digital architect
 ## 🌟 Featured Projects
 
 ### 🎁 [DigitalGift](https://digital-gift-one.vercel.app)
-* **Overview:** A full-stack gifting and registry platform built for scalable transactional workflows.
-* **Architecture:** Laravel (API) + React.js + MySQL
+* **Overview:** A Digital gifting and registry platform built for scalable transactional workflows.
+* **Architecture:** React.js 
+
+### 🎁 [Father's Day](https://digital-gift-one.vercel.app)
+* **Overview:** A Digital Father's Day Gift , this is Family Bonding with videos and pictures memories.
+* **Architecture:** Typescript.js
 
 ### 💍 [DigitalWedding](https://juliuscajes.github.io/Wedding/)
 * **Overview:** An interactive event invitation and check-in confirmation pipeline.
-* **Architecture:** React.js (CI/CD via GitHub Pages) with custom QR-code verification.
+* **Architecture:** React.js (CI/CD via GitHub Pages) 
 
 ### 📉 [QuickCount](https://quick-count-six.vercel.app)
-* **Overview:** A lightweight, offline-first personal finance mobile tracker.
-* **Architecture:** React Native (CLI) + SQLite (Local Cache) + Firebase (Cloud Sync)
+* **Overview:** An online personal finance mobile tracker.
+* **Architecture:** React Native (CLI) + Firebase (Cloud Sync)
 
 ### ⚡ [Smart HomeAutomation ](https://home-automation-35le.vercel.app/login)
-* **Overview:** A real-time hardware telemetry pipeline streaming sensor metrics to cloud instances.
-* **Architecture:** ESP32 Firmware (C++) + Firebase Realtime DB + Docker
+* **Overview:** A real-time hardware telemetry pipeline streaming sensor metrics to cloud instances .
+* **Architecture:** ESP32 Firmware (C++) + Firebase Realtime DB + Docker +  React.js
 
 ---
 
