@@ -26,16 +26,16 @@ Software engineer focused on building responsive, maintainable digital architect
 
 ## 🌟 Featured Projects
 
-### 🎁 [DigitalGift](https://digital-gift-one.vercel.app)
-* **Overview:** A Digital gifting and registry platform built for scalable transactional workflows.
+### 🎁 [Digital Christmas Gift](https://digital-gift-one.vercel.app)
+* **Overview:** A Digital Christmas Gift with pictures and videos memories!.
 * **Architecture:** React.js 
 
 ### 🎁 [Father's Day](https://juliuscajes.github.io/fathersDay/)
-* **Overview:** A Digital Father's Day Gift , this is Family Bonding with videos and pictures memories.
+* **Overview:** A Digital Father's Day Gift , this is Family Bonding with videos and pictures memories!.
 * **Architecture:** Typescript.js
 
 ### 💍 [DigitalWedding](https://juliuscajes.github.io/Wedding/)
-* **Overview:** An interactive event invitation and check-in confirmation pipeline.
+* **Overview:** An interactive event invitation .
 * **Architecture:** React.js (CI/CD via GitHub Pages) 
 
 ### 📉 [QuickCount](https://quick-count-six.vercel.app)
