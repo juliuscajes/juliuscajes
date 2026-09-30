@@ -1,7 +1,7 @@
 # Julius Cajes Lagarto 
 
 ### **Full-Stack Web Developer & Mobile Developer**
-📍 Central Visayas, Philippines | 🌐 [simple-porfolio]([https://github.com/your-username](https://juliuscajes.github.io/myportfolio/))
+📍 Central Visayas, Philippines | 🌐 [simple-porfolio](https://juliuscajes.github.io/myportfolio/)
 
 Software engineer focused on building responsive, maintainable digital architectures. I bridge the gap between hardware telemetry, robust backends, and intuitive user interfaces using containerized workflows and AI-assisted engineering.
 
